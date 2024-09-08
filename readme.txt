@@ -1,4 +1,4 @@
 This repository stores the materials for the Amazing Robots Bootcamp, a bootcamp designed to teach how to design, build and code a robot in a week.
 
 
-![alt text](https://www.instagram.com/p/C86_lZEtZHs/)
+![alt text](https://github.com/jmacedo175/AmazingRobotsBootcamp/blob/main/Publicity/ProjectPoster.jpeg?raw=true)
